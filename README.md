@@ -18,7 +18,6 @@ The analysis focuses on six key business questions:
 
 ## 🛠️ Methodology and Tools
 
-### Platform
 - **QLik Sense**: Main business intelligence tool used
 - **Visualizzazioni**: Bar charts, pie charts, tree maps, scatter plots, donut charts, Mekko charts
 
