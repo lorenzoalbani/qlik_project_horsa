@@ -49,6 +49,8 @@ The analysis focuses on six key business questions:
 
 This project is developed for academic purposes within the scope of the university course.
 
+The full report is available both in Italian and English in the files 'QLik_Report.pdf', 'QLik_Report_ITA.pdf'.
+
 ---
 
 *For questions or collaborations, feel free to contact me!*
